@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VinhQuocTran
-- 👀 I’m interested in Scifi, AI, Software engineer
-- 🌱 I’m currently learning TDT UNIVERSITY
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Vinh Tran
+- 👀 I’m interested in Data science, AI, Data Analysis
+- 🌱 I’m currently learning at TON DUC THANG UNIVERSITY
+- 💞️ I’m looking to collaborate on anyone who's interested in Making game, Data science 
 - 📫 How to reach me 
 email: vinhquoc2103@gmail.com
 
